@@ -1,5 +1,5 @@
 ## Mój sprzęt
-  Tablet Alldocube Mix Plus
+ ### Tablet Alldocube Mix Plus
 
 #### **Procesor**
 >Model **Intel Core m3-7Y30**
