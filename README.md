@@ -1,5 +1,5 @@
-## Mój sprzęt
- ### Tablet Alldocube Mix Plus
+### Mój sprzęt
+ ## Tablet Alldocube Mix Plus
 
 #### **Procesor**
 >Model **Intel Core m3-7Y30**
@@ -13,7 +13,7 @@
 >Częstotliwość precesora **2.6 GHz**
 
 >64 Bits **Tak**
-
+ 
 ### Ekran
 
  >Typ **LCD IPS**
