@@ -7,17 +7,17 @@
 
 
 #### **Procesor**
->Model Intel Core m3-7Y30
+>Model **Intel Core m3-7Y30**
 
->CPU Intel Skylake
+>CPU **Intel Skylake**
 
->Typ Dual-Core
+>Typ **Dual-Core**
 
 >Nanometr **14 nm**
 
 >Częstotliwość precesora **2.6 GHz**
 
->64 Bits Tak
+>64 Bits **Tak**
 
 ### Ekran
 
@@ -38,12 +38,12 @@
 ### Karta Graficzna
 
 >  
->Intel HD Graphics 615
+>**Intel HD Graphics 615**
 
 ### RAM
->4 GB
+>**4 GB**
 
 ### Pamięć
->128 GB SSD
+>**128 GB SSD**
 
 
