@@ -1,1 +1,3 @@
-# MojsprzentMatrix.github.io
+# MójsprzętMatrix
+##Tablet Alldocube Mix Plus
+#Specyfikacja
